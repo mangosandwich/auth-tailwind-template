@@ -1,12 +1,6 @@
-# Direktori Dependencies
 node_modules
 /dist
-
-# Variabel Lingkungan
-# Abaikan file .env yang berisi kunci rahasia/credentials.
 .env
-
-# Files Log dan Build
 *.log
 npm-debug.log*
 .DS_Store

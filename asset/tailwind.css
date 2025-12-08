@@ -221,8 +221,17 @@
   .bottom-6 {
     bottom: calc(var(--spacing) * 6);
   }
+  .bottom-\[-2rem\] {
+    bottom: -2rem;
+  }
+  .bottom-\[-3rem\] {
+    bottom: -3rem;
+  }
   .bottom-\[-4rem\] {
     bottom: -4rem;
+  }
+  .bottom-\[-rem\] {
+    bottom: -rem;
   }
   .left-0 {
     left: calc(var(--spacing) * 0);
